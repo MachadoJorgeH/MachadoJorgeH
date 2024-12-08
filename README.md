@@ -15,3 +15,9 @@
 📫 Contato: [E-mail](mailto:jorgehenriqueq@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jorge-henrique-machado-203ab41a4/)
 
 🌐 Acesse projetos ao vivo no [GitHub Pages](https://machadojorgeh.github.io/)
+
+📌 Portifólio: <a href="https://machadojorgeh.github.io/Projeto-Portifolio/" target="_blank">Portifólio</a>
+
+📫 Contato: <a href="mailto:jorgehenriqueq@gmail.com" target="_blank">E-mail</a> | <a href="https://www.linkedin.com/in/jorge-henrique-machado-203ab41a4/" target="_blank">LinkedIn</a>
+
+🌐 Acesse projetos ao vivo no <a href="https://machadojorgeh.github.io/" target="_blank">GitHub Pages</a>
