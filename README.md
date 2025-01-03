@@ -1,4 +1,4 @@
-# 👋 Hello, i'm Jorge Henrique Machado!
+# 👋 Hi, i'm Jorge Henrique Machado!
 
 🎯 **Objective:** Career transition to Front-End Developer.
 
