@@ -1,6 +1,6 @@
 # 👋 Hi, i'm Jorge Henrique Machado!
 
-📖 Currently learning:  
+📖 Currently, I'm learning :  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
