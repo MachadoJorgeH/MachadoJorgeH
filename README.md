@@ -38,6 +38,6 @@ I'm a developer in training, passionate about technology, with a current focus o
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MachadoJorgeH&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MachadoJorgeH&layout=compact&theme=tokyonight" />
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MachadoJorgeH&show_icons=true&theme=dracula)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MachadoJorgeH&layout=compact&theme=dracula)
 </div>
