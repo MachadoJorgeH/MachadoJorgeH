@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Jorge Henrique Machado!
 
-I'm a developer in training, passionate about technology, with a current focus on application development with Flutter and Firebase.
+I'm a developer in training, passionate about technology, currently focused on building applications with Flutter and Firebase.
 
 ---
 
-## 🚀 Technologies I'm currently learning
+## 🚀 Currently learning the following technologies : 
 
 <div align="center">
   
