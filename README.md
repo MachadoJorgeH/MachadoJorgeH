@@ -31,7 +31,7 @@ I'm a developer in training, passionate about technology, with a current focus o
 ## 📫 Contato
 
 📧 E-mail: [jorgehenriqueq@gmail.com](mailto:jorgehenriqueq@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/jorge-henrique-machado-203ab41a4](https://www.linkedin.com/in/jorge-henrique-machado-203ab41a4/)
+💼 LinkedIn: [jorge-henrique-machado-203ab41a4](https://www.linkedin.com/in/jorge-henrique-machado-203ab41a4/)
 
 ---
 
