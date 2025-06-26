@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Jorge Henrique Machado!
 
-I'm a developer in training, passionate about technology, currently focused on building applications with Flutter and Firebase.
+"I'm a developer passionate about technology and creating mobile solutions with Flutter. Currently a Development Intern at Moovz, I seek to apply and deepen my knowledge to solve real-world problems and build intuitive user experiences. I'm always looking for new challenges to learn and evolve."
 
 ---
 
-## 🚀 Currently learning the following technologies : 
+## 🛠️ Technologies and tools I currently use : 
 
 <div align="center">
   
