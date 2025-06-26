@@ -21,14 +21,14 @@
 
 ---
 
-## 🌐 Portfólio
+## 🌐 Portfolio
 
-🧩 Acesse meu portfólio completo aqui:  
+🧩 Access my portfolio project here:  
 🔗 [machadojorgeh.github.io/Projeto-Portifolio](https://machadojorgeh.github.io/Projeto-Portifolio/)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 📧 E-mail: [jorgehenriqueq@gmail.com](mailto:jorgehenriqueq@gmail.com)  
 💼 LinkedIn: [Jorge Henrique Machado](https://www.linkedin.com/in/jorge-henrique-machado/)
