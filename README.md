@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Technologies and tools I currently use : 
+## 🛠️ Technologies: 
 
 <div align="center">
   
