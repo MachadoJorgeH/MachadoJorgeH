@@ -24,7 +24,7 @@
 ## 🌐 Portfolio
 
 🧩 Access my portfolio project here:  
-🔗 [machadojorgeh.github.io/Projeto-Portifolio](https://machadojorgeh.github.io/Projeto-Portifolio/)
+🔗 [machadojorgeh.github.io/Projeto-Portifolio](https://machadojorgeh.github.io/flutter_portfolio/)
 
 ---
 
