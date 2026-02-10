@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Jorge Henrique Machado! 👋</h1>
-  <h3>Mobile (Flutter) & Frontend Developer</h3>
+  <h3>Junior Full Stack Developer | Mobile & Web</h3>
   
   <p>
-    Currently a <b>Development Intern at Moovz</b>. <br>
-    Passionate about creating intuitive interfaces and solving real-world problems through technology.
+    Currently a <b>Junior Developer at Moovz</b>. <br>
+    Passionate by creating fluid interfaces, scalable architectures and solving real-world problems.
   </p>
 
   <a href="https://www.linkedin.com/in/jorge-henrique-machado/">
@@ -19,11 +19,12 @@
 
 ### 💻 About Me
 
-I'm a developer focused on **Mobile solutions with Flutter**, currently expanding my horizons into modern Web development. I constantly seek to apply and deepen my knowledge to build fluid, high-performance user experiences.
+I'm a **Junior Full Stack Developer** specialized in the **Flutter (Mobile)** ecosystem and modern **Web (React)** environments. I focus on Clean Architecture, state management, and delivering high-performance user experiences.
 
-- 🔭 **Currently working on:** Mobile Development at Moovz.
-- 🌱 **Studying:** React.js, Tailwind CSS, and Software Architecture.
-- 🚀 **Goal:** To create scalable applications with high visual impact.
+- 🔭 **Currently working on:** Building scalable Mobile & Web solutions at **Moovz**.
+- 🎓 **Education:** Currently pursuing a degree in **Mobile Development**.
+- 🌱 **Studying:** Advanced State Management, Software Architecture, and Performance Optimization.
+- 🚀 **Goal:** To transform complex challenges into efficient technological solutions.
 
 ---
 
